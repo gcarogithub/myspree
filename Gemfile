@@ -56,7 +56,4 @@ group :production do
   gem 'pg'
   gem 'rails_12factor'
 end
-gem 'spree', '~> 3.1.0'
-gem 'spree_auth_devise', '~> 3.1.0'
-gem 'spree_gateway', '~> 3.1.0'
-gem 'aws-sdk'
+
